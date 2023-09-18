@@ -1,4 +1,4 @@
 ./encrypt -e filename 
 ./encrypt -d filename
 
-The password to decrypt pokimmane.jpg.aes is just 'pokimane'
+The password to decrypt pokimane.jpg.aes is just 'pokimane'
