@@ -9,4 +9,8 @@ Do it serially or sequentially to fool the NSA. Notice now pokimane.jpg.aes.decr
 
 For example you might want pokimane.jpg.aes.aes but you'd have to remember the order of, in this script, two different secret keys, for encryption.
 
-the encrypt file is actually a text file i changed with chmod +x so it's executable; you can open it with a text editor
+The password to decrypt pokimane.jpg.aes.aes.decrypt is 'pokimane2'
+
+You can imagine altering the script to encrypt whatever you want in more complex ways to really fool the NSA.
+
+The encrypt file is actually a text file i changed with chmod +x so it's executable; you can open it with a text editor
