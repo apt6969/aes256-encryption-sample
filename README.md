@@ -14,3 +14,5 @@ The password to decrypt pokimane.jpg.aes.aes.decrypt is 'pokimane2'
 You can imagine altering the script to encrypt whatever you want in more complex ways to really fool the NSA.
 
 The encrypt file is actually a text file i changed with chmod +x so it's executable; you can open it with a text editor
+
+![pokimane_lol_encrypted](https://github.com/apt6969/aes256-encryption-sample/assets/143898407/1211a762-be50-4b6b-8d87-1efe65e5f4f4)
